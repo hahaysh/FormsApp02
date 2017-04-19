@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TizenXamarinForms", "TizenXamarinForms\TizenXamarinForms\TizenXamarinForms.csproj", "{7A337DF6-C175-4668-9C91-8FCB51200D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TizenXamarinForms.TizenTV", "TizenXamarinForms\TizenXamarinForms.TizenTV\TizenXamarinForms.TizenTV.csproj", "{B4F99149-D2F5-4D78-B5C7-8AD0932B645E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TizenXamarinForms.TizenMobile", "TizenXamarinForms\TizenXamarinForms.TizenMobile\TizenXamarinForms.TizenMobile.csproj", "{4E83F475-7550-411B-9645-4ECE89F39810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A337DF6-C175-4668-9C91-8FCB51200D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A337DF6-C175-4668-9C91-8FCB51200D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A337DF6-C175-4668-9C91-8FCB51200D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A337DF6-C175-4668-9C91-8FCB51200D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F99149-D2F5-4D78-B5C7-8AD0932B645E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F99149-D2F5-4D78-B5C7-8AD0932B645E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F99149-D2F5-4D78-B5C7-8AD0932B645E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F99149-D2F5-4D78-B5C7-8AD0932B645E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E83F475-7550-411B-9645-4ECE89F39810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E83F475-7550-411B-9645-4ECE89F39810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E83F475-7550-411B-9645-4ECE89F39810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E83F475-7550-411B-9645-4ECE89F39810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

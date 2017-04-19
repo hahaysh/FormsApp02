@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="XamarinForms02.Tizen" version="1.0.0">
+	<profile name="common" />
+	<ui-application appid="org.tizen.example.XamarinForms02.Tizen"
+					exec="XamarinForms02.Tizen.exe"
+					type="dotnet"
+					multiple="false"
+					taskmanage="true"
+					nodisplay="false"
+					launch_mode="single">
+	<icon>XamarinForms02.Tizen.png</icon>
+	<label>XamarinForms02.Tizen</label>
+	</ui-application>
+</manifest>

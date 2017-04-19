@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="TizenXamarinForms.TizenTV" version="1.0.0">
+	<profile name="common" />
+	<ui-application appid="org.tizen.example.TizenXamarinForms.TizenTV"
+					exec="TizenXamarinForms.TizenTV.exe"
+					type="dotnet"
+					multiple="false"
+					taskmanage="true"
+					nodisplay="false"
+					launch_mode="single">
+	<icon>TizenXamarinForms.TizenTV.png</icon>
+	<label>TizenXamarinForms.TizenTV</label>
+	</ui-application>
+</manifest>
